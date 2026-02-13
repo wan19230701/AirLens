@@ -1,0 +1,44 @@
+# --- Android Ignores ---
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# --- Python Ignores ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.spec
+
+# --- Virtual Environment ---
+venv/
+env/
+
+# --- PyInstaller build artifacts (Don't upload these) ---
+build/
+dist/
+*.manifest
+
+# --- Binary / Large Files (Don't upload these to code repo) ---
+*.exe
+*.apk
+*.aab
+*.jks
+*.keystore
+ffmpeg.exe
+
+# --- Temp files ---
+photo_save/
+video_save/
+temp/
