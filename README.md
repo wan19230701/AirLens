@@ -59,7 +59,7 @@ License
 This project is licensed under the MIT License.  
 
 
-🇨🇳 AirLens - 安卓局域网无线摄像头与对讲系统  
+AirLens - 安卓局域网无线摄像头与对讲系统  
 AirLens 是一个开源的局域网音视频传输系统，它可以将你的 Android 手机变身为电脑的高清无线摄像头，并支持双向语音对讲。基于 Android (Kotlin) 和 Python 开发，无需 USB 线，连接同一个 Wi-Fi 即可使用。
 
 核心功能  
