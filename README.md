@@ -1,6 +1,9 @@
 AirLens  
 AirLens is a powerful, low-latency wireless webcam and intercom system that turns your Android phone into a network camera for your PC. Built with Android (Kotlin) and Python, it operates entirely over a local Wi-Fi network—no USB cables required.
 
+Looking for the Android-to-Android version?
+Check out my new standalone project: AirLens-Mobile
+
 Key Features  
 1. Wireless Streaming: Real-time, low-latency video streaming via Wi-Fi (TCP Socket).  
 2. Two-Way Intercom:  
